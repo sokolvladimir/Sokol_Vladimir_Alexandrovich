@@ -1,0 +1,17 @@
+.navigation {
+    background-color: grey;
+    width: 15em;
+    float: left;
+}
+.article {
+    
+    margin-left: 16em;
+    margin-bottom: 2em;
+    background-color: indianred;
+}
+footer {
+    background-color: lawngreen;
+}
+img {
+    float: right;
+}
